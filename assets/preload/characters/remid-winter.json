@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				321,
+				-19
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "idle",
+			"loop": true,
+			"name": "Remid-winter Idle Dance"
+		},
+		{
+			"offsets": [
+				288,
+				-26
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Remid-winter Right"
+		},
+		{
+			"offsets": [
+				294,
+				-5
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Remid-winter Up"
+		},
+		{
+			"offsets": [
+				361,
+				-43
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Remid-winter Left"
+		},
+		{
+			"offsets": [
+				338,
+				-31
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Remid-winter Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/winter/Remid-winter",
+	"position": [
+		240,
+		30
+	],
+	"healthicon": "remid",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-310,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

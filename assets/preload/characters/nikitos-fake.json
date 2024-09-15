@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				-71
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Nikitos.god idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				-74
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Nikitos.god up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				-68
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Nikitos.god down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				-73
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Nikitos.god left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-80
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Nikitos.god right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nikitos.god",
+	"position": [
+		-40,
+		-20
+	],
+	"healthicon": "nikitos-fake",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		102,
+		204
+	],
+	"camera_position": [
+		-110,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

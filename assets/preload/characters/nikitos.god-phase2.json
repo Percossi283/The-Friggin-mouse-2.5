@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-81,
+				-60
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Nikitos-god-2-phase-idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-62
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Nikitos-god-2-phase-left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-162
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Nikitos-god-2-phase-down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				-57
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Nikitos-god-2-phase-right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				-88
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Nikitos-god-2-phase-up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-94,
+				-106
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "Nikitos-god-2-phase-launch"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nikitos.godPhase2",
+	"position": [
+		-40,
+		-80
+	],
+	"healthicon": "nikitos.god",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		238,
+		0
+	],
+	"camera_position": [
+		-110,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,197 @@
+{
+	"animations": [
+		{
+			"cameraOffset": [
+				0,
+				30
+			],
+			"loop": false,
+			"offsets": [
+				20,
+				-50
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"indices": [],
+			"name": "singDOWN0"
+		},
+		{
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"loop": false,
+			"offsets": [
+				42,
+				17
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"indices": [],
+			"name": "singLEFT0"
+		},
+		{
+			"cameraOffset": [
+				30,
+				0
+			],
+			"loop": false,
+			"offsets": [
+				-7,
+				15
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"indices": [],
+			"name": "singRIGHT0"
+		},
+		{
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"loop": false,
+			"offsets": [
+				28,
+				28
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"indices": [],
+			"name": "singUP0"
+		},
+		{
+			"cameraOffset": [
+				0,
+				30
+			],
+			"loop": false,
+			"offsets": [
+				52,
+				-52
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"indices": [],
+			"name": "singDOWNmiss0"
+		},
+		{
+			"cameraOffset": [
+				0,
+				30
+			],
+			"loop": false,
+			"offsets": [
+				-1,
+				46
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"indices": [],
+			"name": "singRIGHTmiss0"
+		},
+		{
+			"cameraOffset": [
+				0,
+				30
+			],
+			"loop": false,
+			"offsets": [
+				52,
+				20
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"indices": [],
+			"name": "singLEFTmiss0"
+		},
+		{
+			"cameraOffset": [
+				0,
+				30
+			],
+			"loop": false,
+			"offsets": [
+				27,
+				35
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"indices": [],
+			"name": "singUPmiss0"
+		},
+		{
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"indices": [
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23
+			],
+			"name": "idle"
+		},
+		{
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/needle-bf",
+	"position": [
+		-30,
+		270
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		40,
+		-210
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

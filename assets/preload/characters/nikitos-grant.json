@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				28,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "what",
+			"indices": [],
+			"name": "WHAT ARE YOU DOING???"
+		},
+		{
+			"offsets": [
+				6,
+				-21
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Nikitos grant idle"
+		},
+		{
+			"offsets": [
+				15,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Nikitos grant right"
+		},
+		{
+			"offsets": [
+				7,
+				-18
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Nikitos grant down"
+		},
+		{
+			"offsets": [
+				6,
+				-17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Nikitos grant up"
+		},
+		{
+			"offsets": [
+				0,
+				-11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Nikitos grant left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nikitos_grant",
+	"position": [
+		-80,
+		-40
+	],
+	"healthicon": "nikitos-grant",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		102,
+		204
+	],
+	"camera_position": [
+		-110,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

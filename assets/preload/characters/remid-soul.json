@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Remid Idle"
+		},
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Remid Down"
+		},
+		{
+			"offsets": [
+				-6,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Remid Right"
+		},
+		{
+			"offsets": [
+				-6,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Remid Left"
+		},
+		{
+			"offsets": [
+				-7,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Remid Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tts/Remid_soul",
+	"position": [
+		-60,
+		20
+	],
+	"healthicon": "remid",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-30,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

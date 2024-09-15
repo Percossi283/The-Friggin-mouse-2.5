@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-37,
+				-71
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": false,
+			"name": "NK Idle"
+		},
+		{
+			"offsets": [
+				-36,
+				-72
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singUP",
+			"loop": false,
+			"name": "NK Up"
+		},
+		{
+			"offsets": [
+				-36,
+				-69
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "NK Down"
+		},
+		{
+			"offsets": [
+				-34,
+				-71
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "NK Right"
+		},
+		{
+			"offsets": [
+				-44,
+				-70
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "NK Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NK",
+	"position": [
+		-40,
+		-20
+	],
+	"healthicon": "nikitos",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		102,
+		204
+	],
+	"camera_position": [
+		-110,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

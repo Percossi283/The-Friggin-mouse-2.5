@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				2
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "b down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-52,
+				-27
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "b up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-105,
+				-19
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "b left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				-13
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "b right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-59,
+				-8
+			],
+			"anim": "idle",
+			"fps": 23,
+			"name": "frame_",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/boldik",
+	"position": [
+		0,
+		-110
+	],
+	"healthicon": "boldik",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-20,
+		380
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

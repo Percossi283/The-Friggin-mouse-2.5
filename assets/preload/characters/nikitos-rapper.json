@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-25,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Nikitos idle"
+		},
+		{
+			"offsets": [
+				39,
+				-33
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Nikitos down"
+		},
+		{
+			"offsets": [
+				34,
+				-12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Nikitos right"
+		},
+		{
+			"offsets": [
+				28,
+				-24
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Nikitos left"
+		},
+		{
+			"offsets": [
+				4,
+				73
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Nikitos up"
+		},
+		{
+			"offsets": [
+				24,
+				-12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "what",
+			"loop": false,
+			"name": "WHAT ARE YOU DOING???"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nikitos_rapper",
+	"position": [
+		-40,
+		90
+	],
+	"healthicon": "nikita",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		64
+	],
+	"camera_position": [
+		-120,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

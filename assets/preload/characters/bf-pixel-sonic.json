@@ -1,0 +1,138 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"indices": [],
+			"name": "ycr bf idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-2
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"indices": [],
+			"name": "ycr bf up miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				-7
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"indices": [],
+			"name": "ycr bf up sing"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"indices": [],
+			"name": "ycr bf down sing"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				8
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"indices": [],
+			"name": "ycr bf down miss"
+		},
+		{
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"loop": false,
+			"offsets": [
+				10,
+				-8
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"indices": [],
+			"name": "ycr bf left sing"
+		},
+		{
+			"cameraOffset": [
+				30,
+				0
+			],
+			"loop": false,
+			"offsets": [
+				10,
+				-5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"indices": [],
+			"name": "ycr bf right sing"
+		},
+		{
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"loop": false,
+			"offsets": [
+				10,
+				7
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"indices": [],
+			"name": "ycr bf left miss"
+		},
+		{
+			"cameraOffset": [
+				30,
+				0
+			],
+			"loop": false,
+			"offsets": [
+				10,
+				6
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"indices": [],
+			"name": "ycr bf right miss"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/ycr_boyfriend_sprite_sheet",
+	"position": [
+		300,
+		470
+	],
+	"healthicon": "Pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		123,
+		214,
+		246
+	],
+	"camera_position": [
+		210,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 8.8
+}

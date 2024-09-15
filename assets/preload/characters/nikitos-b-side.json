@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Nikitos Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				-45
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Nikitos Down Note0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-59,
+				-24
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Nikitos Right Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				7
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Nikitos Up Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Nikitos Left Note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				28,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "what",
+			"indices": [],
+			"name": "WHAT ARE YOU DOING???"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters//B-side Characters/Nikitos_B-side",
+	"position": [
+		-160,
+		-120
+	],
+	"healthicon": "nikitos-B",
+	"flip_x": false,
+	"healthbar_colors": [
+		234,
+		88,
+		72
+	],
+	"camera_position": [
+		-110,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

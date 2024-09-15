@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-86
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "zzzzz idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				105,
+				-90
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "zzzzz left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-78,
+				-82
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "zzzzz right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				-21
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "zzzzz up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-129
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "zzzzz down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Cool_good-natured",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-180,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

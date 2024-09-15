@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				327,
+				-19
+			],
+			"anim": "idle",
+			"fps": 14,
+			"name": "Remid idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				320,
+				-20
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Remid left"
+		},
+		{
+			"offsets": [
+				330,
+				-20
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Remid up"
+		},
+		{
+			"offsets": [
+				340,
+				-21
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Remid right"
+		},
+		{
+			"offsets": [
+				331,
+				-20
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Remid down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Remid",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "remid",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-104,
+				8
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle0000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-139,
+				-14
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down0000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-81,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up0000",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-173,
+				14
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-140,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/winter/Dimacub",
+	"position": [
+		-140,
+		-50
+	],
+	"healthicon": "dimacub",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-220,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

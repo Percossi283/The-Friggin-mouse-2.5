@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Nikitos idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Nikitos left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				24
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Nikitos right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				31
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Nikitos up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "what",
+			"fps": 24,
+			"name": "what",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "side",
+			"fps": 24,
+			"name": "Nikitos Remid",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				63,
+				-7
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "REMID WAKE UP left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				16
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "REMID WAKE UP right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-2,
+				60
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "REMID WAKE UP down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				8,
+				-46
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Nikitos down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				49
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "REMID WAKE UP up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				65
+			],
+			"anim": "bruh",
+			"fps": 24,
+			"name": "Oh Sans you Mother fuc-",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				31
+			],
+			"anim": "!",
+			"fps": 24,
+			"name": "!",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "Let's go",
+			"fps": 24,
+			"name": "Nikitos Lets Go",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "Mad",
+			"fps": 24,
+			"name": "Nikitos Even more Mad instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nikitos_papyrus",
+	"position": [
+		-50,
+		-30
+	],
+	"healthicon": "nikitos",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		102,
+		204
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 0.9
+}

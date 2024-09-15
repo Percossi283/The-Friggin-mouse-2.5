@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				13,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				17,
+				-55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				21,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				19,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-9,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/winter/Danil_winter",
+	"position": [
+		-50,
+		50
+	],
+	"healthicon": "danil",
+	"flip_x": false,
+	"healthbar_colors": [
+		204,
+		0,
+		255
+	],
+	"camera_position": [
+		-90,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

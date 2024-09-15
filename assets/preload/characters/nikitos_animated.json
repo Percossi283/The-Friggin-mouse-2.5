@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Nikitos Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				-5
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Nikitos Down Note0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				-12
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Nikitos Right Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				-2
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Nikitos Up Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Nikitos Left Note",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nikitos_animated",
+	"position": [
+		-40,
+		-120
+	],
+	"healthicon": "nikitos-new",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		102,
+		204
+	],
+	"camera_position": [
+		-110,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

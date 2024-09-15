@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-37,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Nikitos_alt idle"
+		},
+		{
+			"offsets": [
+				-37,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Nikitos_alt down"
+		},
+		{
+			"offsets": [
+				-32,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Nikitos_alt right"
+		},
+		{
+			"offsets": [
+				-36,
+				-4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Nikitos_alt up"
+		},
+		{
+			"offsets": [
+				-38,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Nikitos_alt left"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "alt/Nikitos_alt",
+	"position": [
+		-400,
+		-600
+	],
+	"healthicon": "nikitos",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		102,
+		204
+	],
+	"camera_position": [
+		260,
+		540
+	],
+	"sing_duration": 4,
+	"scale": 0.4
+}
