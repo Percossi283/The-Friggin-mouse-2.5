@@ -50,7 +50,7 @@ class FPS extends TextField
 		defaultTextFormat = new TextFormat("_sans", 14, color);
 		autoSize = LEFT;
 		multiline = true;
-		text = "FPS: ";
+		text = "FPSCounter: ";
 
 		cacheCount = 0;
 		currentTime = 0;
@@ -83,18 +83,18 @@ class FPS extends TextField
 
 		if (currentCount != cacheCount /*&& visible*/)
 		{
-			text = "FPS: " + currentFPS;
+			text = "FPSCounter: " + currentFPS;
 			var memoryMegas:Float = 0;
 			
 			#if openfl
 			memoryMegas = Math.abs(FlxMath.roundDecimal(System.totalMemory / 1000000, 1));
-			text += "\nMemory: " + memoryMegas + " MB";
+			text += "\nMem: " + memoryMegas + " MB";
 			#end
 
-			textColor = 0xFFFFFFFF;
+			textColor = FF0055;
 			if (memoryMegas > 3000 || currentFPS <= ClientPrefs.framerate / 2)
 			{
-				textColor = 0xFFFF0000;
+				textColor = FF0055;
 			}
 
 			#if (gl_stats && !disable_cffi && (!html5 || !canvas))
